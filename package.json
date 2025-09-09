@@ -1,0 +1,17 @@
+{
+  "name": "cypress",
+  "version": "1.0.0",
+  "description": "This is new automation learning prject",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "keywords": [
+    "ansh"
+  ],
+  "author": "Anshul",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^14.5.3"
+  }
+}
